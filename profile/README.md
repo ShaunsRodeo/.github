@@ -3,4 +3,5 @@
 
 .rodeo: directory
 
-.rodeo/resume: resume
+.rodeo/resume: redirect to resume.rodeo CV/resume
+resume.rodeo: CV/resume 
